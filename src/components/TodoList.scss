@@ -1,0 +1,27 @@
+.todos {
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        padding: 0.5em;
+        margin: 0.5em 0;
+        border: 0.1em solid;
+
+        &.my-todo { background: lime; }
+        &.lightblue.my-todo { background: cyan; }
+
+        button {
+            float: right;
+            background: #fff;
+            margin-right: 5px;;
+
+            &:hover {
+                background: pink;
+            }
+        }
+    }
+} 
