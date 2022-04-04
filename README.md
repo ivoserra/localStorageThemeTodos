@@ -15,6 +15,9 @@ React and Sass
 
 ## cloning
 npm install
+
+* go to package.json and delete the homepage
+
 npm start
 
 
