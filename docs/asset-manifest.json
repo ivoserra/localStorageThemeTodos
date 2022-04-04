@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivoserra/localStorageThemeTodos/static/css/main.90a7477f.css",
+    "main.js": "/ivoserra/localStorageThemeTodos/static/js/main.ca51f3f5.js",
+    "index.html": "/ivoserra/localStorageThemeTodos/index.html",
+    "main.90a7477f.css.map": "/ivoserra/localStorageThemeTodos/static/css/main.90a7477f.css.map",
+    "main.ca51f3f5.js.map": "/ivoserra/localStorageThemeTodos/static/js/main.ca51f3f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a7477f.css",
+    "static/js/main.ca51f3f5.js"
+  ]
+}
