@@ -1,7 +1,8 @@
 # Local Storage Theme todos
 This repository demonstrates how to save user data into the local storage. 
 
-I received this project half coded and completed with my code. 
+I received this project half coded and completely styled. 
+My work was to code and complete the task in regards to user, theme and todos in the Localstorage.
 My share of the code uses React hooks like useEffect, useState, useContext. 
 
 
