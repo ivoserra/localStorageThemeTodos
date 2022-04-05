@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/localStorageThemeTodos/static/css/main.90a7477f.css",
+    "main.js": "/localStorageThemeTodos/static/js/main.ca51f3f5.js",
+    "index.html": "/localStorageThemeTodos/index.html",
+    "main.90a7477f.css.map": "/localStorageThemeTodos/static/css/main.90a7477f.css.map",
+    "main.ca51f3f5.js.map": "/localStorageThemeTodos/static/js/main.ca51f3f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a7477f.css",
+    "static/js/main.ca51f3f5.js"
+  ]
+}
